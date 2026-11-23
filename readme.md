@@ -1,6 +1,6 @@
 # MicroHobby Magazine Navigation Toolbar 🕹️🌐
 
-Una barra de herramientas personalizada (*Toolbar*) clásica para **Mozilla Firefox**, diseñada para facilitar la navegación, consulta y búsqueda entre los números de la mítica revista española de informática y videojuegos **MicroHobby** (ZX Spectrum).
+Una barra de herramientas personalizada (*Toolbar*) clásica para **Mozilla Firefox**, diseñada para facilitar la navegación, consulta y búsqueda entre los números de la mítica revista española de informática y videojuegos **MicroHobby** (ZX Spectrum) disponible en la web https://microhobby.speccy.cz/mhforever/index.htm.
 
 ## 📅 Compatibilidad y Contexto Histórico
 
