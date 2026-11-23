@@ -52,4 +52,4 @@ A partir de la estructura interna del paquete (`.xpi`), la extensión ofrece:
 
 ## 📄 Licencia
 
-Proyecto preservado con fines históricos y de archivo para la comunidad retro de ZX Spectrum y MicroHobby.
+Proyecto preservado con fines históricos y de archivo para la comunidad retro interesada en ZX Spectrum y MicroHobby.
